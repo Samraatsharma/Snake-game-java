@@ -1,4 +1,9 @@
 # 🐍 Snake Game in Java (Swing)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-0078D4?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
 
 A simple and smooth Snake Game built using Java Swing. This project demonstrates basic game loops, keyboard handling, graphics rendering, collision detection, and simple animations in Java. Perfect for beginners learning Java GUI programming.
 
